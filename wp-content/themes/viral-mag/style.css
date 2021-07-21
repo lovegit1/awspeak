@@ -5212,7 +5212,7 @@ body.ht-no-header-space .ht-main-header {
     top: 100%;
     left: 0;
     right: 0;
-    background: url('https://awspeak.com/wp-content/themes/viral-mag/images/shadow.png') no-repeat center bottom;
+    background: url('https://www.awspeak.com/wp-content/themes/viral-mag/images/shadow.png') no-repeat center bottom;
     height: 38px;
 }
 
@@ -7688,7 +7688,7 @@ h3.vl-large-title>span {
 .entry-thumb-container {
     position: relative;
     padding-bottom: 70%;
-    background: #f7f7f7 url('https://awspeak.com/wp-content/themes/viral-mag/images/preloader.gif');
+    background: #f7f7f7 url('https://www.awspeak.com/wp-content/themes/viral-mag/images/preloader.gif');
     background-position: center;
     background-size: cover;
 }
@@ -7705,7 +7705,7 @@ h3.vl-large-title>span {
 }
 
 .vl-thumb-inner.vl-post-thumb {
-    background: #f7f7f7 url('https://awspeak.com/wp-content/themes/viral-mag/images/preloader.gif');
+    background: #f7f7f7 url('https://www.awspeak.com/wp-content/themes/viral-mag/images/preloader.gif');
     background-position: center;
     background-size: cover;
 }
@@ -11284,7 +11284,7 @@ a.add_to_wishlist.button.alt {
 }
 
 body.video .ht-maintenance-bg:after {
-    background-image: url(https://awspeak.com/wp-content/themes/viral-mag/images/dot.png);
+    background-image: url(https://www.awspeak.com/wp-content/themes/viral-mag/images/dot.png);
 }
 
 .ht-maintenance-page {
@@ -11489,7 +11489,7 @@ body.video .ht-maintenance-bg:after {
     .vl-thumb-inner.vl-post-thumb>a {
         position: relative;
         padding-bottom: 70%;
-        background: #f7f7f7 url('https://awspeak.com/wp-content/themes/viral-mag/images/preloader.gif');
+        background: #f7f7f7 url('https://www.awspeak.com/wp-content/themes/viral-mag/images/preloader.gif');
         background-position: center;
         background-size: cover;
     }
