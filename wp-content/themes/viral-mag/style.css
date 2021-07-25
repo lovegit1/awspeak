@@ -12344,7 +12344,7 @@ body.video .ht-maintenance-bg:after {
 
 .amazon-product-title {
 	font-size: 12px;
-    height: 3rem;
+    height: 3rem!important;
     overflow-y: hidden;
 }
 
@@ -12360,6 +12360,10 @@ body.video .ht-maintenance-bg:after {
 
 .amazon-auto-links-product-body {
     width: auto!important;
+}
+
+.amazon-products-container-list .amazon-prices {
+    display: block;
 }
 
 .hover-style6 .ht-menu > ul > li.menu-item > a::before {
